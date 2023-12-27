@@ -1,0 +1,39 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.fa-user{
+    position: absolute;
+    top: 20%;
+    left:6%;
+    padding: 5px;
+
+}
+
+#fname-cont{
+    position: relative;
+}
+
+#fname{
+    height: 25px;
+    padding-left: 30px;
+}
+
+
+.fa-light{
+    position: absolute;
+    top: 20%;
+    left: 6%;
+    padding: 5px;
+}
+
+#em{
+
+    height: 25px;
+    padding-left:30px ;
+
+
+}
+#e-cont{
+    position: relative;
+}
